@@ -3,7 +3,7 @@
 
 ## Aviso
 
-Este repositorio alberga los proyectos de desarrollo de Security Partners y sus socios comerciales que pertenecen al área comercial. Incluye documentación, estructuras de base de datos, recursos multimedia y código fuente. Toda la información aquí contenida está destinada para uso interno y colaborativo.
+Este repositorio alberga los proyectos de desarrollo de Enterprise Solutions y sus socios comerciales que pertenecen al área comercial. Incluye documentación, estructuras de base de datos, recursos multimedia y código fuente. Toda la información aquí contenida está destinada para uso interno y colaborativo.
 
 ---
 
